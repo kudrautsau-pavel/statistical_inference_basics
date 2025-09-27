@@ -23,4 +23,4 @@ Example:
 	•	If p-value ≤ α → the result is considered statistically significant → we reject H₀ in favor of H₁.
 	•	If p-value > α → the data are insufficient to reject H₀.
 
-The samller the significance level, the sameller the chances  of a flse positive (Type 1 error).
+The samller the significance level, the smaller the chances  of a flse positive (Type 1 error).
