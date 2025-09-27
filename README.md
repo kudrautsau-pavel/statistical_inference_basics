@@ -24,3 +24,5 @@ Example:
 	•	If p-value > α → the data are insufficient to reject H₀.
 
 The samller the significance level, the smaller the chances  of a flse positive (Type 1 error).
+A 5% significance meansyou can tolerate that you will wrongly reject a null hypothesis 9 have a false positive) 1 out of 20 times.
+ 
