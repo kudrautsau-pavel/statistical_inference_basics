@@ -23,6 +23,6 @@ Example:
 	•	If p-value ≤ α → the result is considered statistically significant → we reject H₀ in favor of H₁.
 	•	If p-value > α → the data are insufficient to reject H₀.
 
-The samller the significance level, the smaller the chances  of a flse positive (Type 1 error).
+The smaller the significance level, the smaller the chances  of a flse positive (Type 1 error).
 A 5% significance meansyou can tolerate that you will wrongly reject a null hypothesis 9 have a false positive) 1 out of 20 times.
- 
+If you are lowering significance level from 5% to 1% and decrease your false positive, tha data must be more extreme (or, at least, very convincing) to reject the null hypothesis. But it comes with the cost to increase false negatives, so there is always a tradeoff.
